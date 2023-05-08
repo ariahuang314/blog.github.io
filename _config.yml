@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://ariahuang314.github.io/blog.github.io/
 date_format: "ordinal"
 title: blog
 subtitle: "huang shurui"
 description: "a university student"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+keywords: huangshurui, aria
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Huang Shurui
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: ariahuang314
+location: Shanghai, China
+email: ariahuang314@gmail.com
 
 # ---------------- #
 #    Navigation    #
